@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <section
         className="relative h-screen bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/background.jpg')" }}
+        style={{ backgroundImage: "url('/images/Background.jpg')" }}
       >
         {/* Gradient overlay for enhanced depth */}
         <div className="absolute inset-0 bg-gradient-to-r from-black via-transparent to-black opacity-70"></div>
